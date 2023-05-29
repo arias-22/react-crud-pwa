@@ -1,0 +1,16 @@
+{
+  "short_name": "PWA",
+  "name": "Prueba PWA",
+  "icons": [
+    {
+      "src": "ico-app.png",
+      "type": "image/png",
+      "sizes": "454x454"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
